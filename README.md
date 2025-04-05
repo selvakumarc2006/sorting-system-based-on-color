@@ -1,4 +1,5 @@
-Color-Based Object Sorting System using Vision Sensors and Comparator Logic
+##Color-Based Object Sorting System using Vision Sensors and Comparator Logic
+
 This repository contains the simulation files and logic setup for an industrial automation project titled "Color-Based Object Sorting System using Vision Sensors and Comparator Logic." The objective of this system is to automatically detect and sort objects on a conveyor belt based on their color (Blue, Green, and White) using Factory I/O and Control I/O software.
 
 🧠 Project Overview
